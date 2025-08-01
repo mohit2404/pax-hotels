@@ -95,7 +95,7 @@ export default function Home() {
               </form>
             ) : (
               <p className="text-gray-600 font-light">
-                Thank you. We'll be in touch.
+                Thank you. We&apos;ll be in touch.
               </p>
             )}
           </div>
